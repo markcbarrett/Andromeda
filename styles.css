@@ -1,0 +1,15 @@
+nav ul{
+	list-style-type: none;
+	display: inline-block;
+}
+
+#profile_pic {
+	width: 100px;
+
+}
+
+.profile {
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 10px;
+}
